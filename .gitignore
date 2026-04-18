@@ -1,0 +1,28 @@
+# Fichiers sensibles
+.env
+
+# Environnements virtuels
+.venv/
+__pycache__/
+.history 
+.history/
+# Données locales et caches
+*.log
+*.json
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.csv
+
+# Dossiers spécifiques au projet
+.langgraph_api/
+.ipynb_checkpoints/
+
+# Configurations système
+.DS_Store
+Thumbs.db
+
+# Sorties temporaires
+*.tmp
+*.bak
